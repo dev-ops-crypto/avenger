@@ -1,0 +1,13 @@
+{
+  "name": "avenger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dev-ops-crypto/avenger.git",
+  "author": "dev-ops-crypto <abhishek.7979033@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10"
+  }
+}
